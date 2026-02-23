@@ -24,8 +24,8 @@ This project involves the extraction, cleaning, and analysis of World Population
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Brian342/Mpesa-Spending-prediction.git
-   cd Mpesa-Spending-prediction.
+     git clone https://github.com/Brian342/World-population-Excel.git
+     cd World-population-Excel.
    ```
 
 ## Screenshots
